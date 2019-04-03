@@ -26,7 +26,7 @@ assignees: ''
 **Kontrol listesi:**
 
 - [ ] İş kaydınızın başlığı kurallara (sadece ilk harf büyük, emir kipinde problem cümlesi vb.) uygun mu?
-- [ ] Öneriniz ile alakalı açık olarak bekleyen bir [issue](https://github.com/ennara/plan/issues) veya [pull request](https://github.com/ennara/plan/pulls) olmadığından emin misiniz?
+- [ ] Öneriniz ile alakalı açık olarak bekleyen bir [issue](https://github.com/ennara/plan/issues) olmadığından emin misiniz?
 
 **Ek içerik:**
 
