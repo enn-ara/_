@@ -1,5 +1,5 @@
 ---
-name: Tasarım önerisi
+name: Tasarım Önerisi
 about: Uygulamanın varolan UI/UX'i ile ilgili değişiklik önerisi.
 title: ''
 labels: good first issue
