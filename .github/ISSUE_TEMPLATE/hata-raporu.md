@@ -9,41 +9,35 @@ assignees: ''
 
 **Hatayı ve/veya bug'ı açıklayın:**
 
-[//]: # (Kısa ve net bir şekilde hatanın ne olduğu açıklanmalıdır.)
+- (Kısa ve net bir şekilde hatanın ne olduğu açıklanmalıdır.)
 
 **Hatayı tekrarlama için takip edilmesi gereken adımlar:**
 
-[//]: # (1. X adresinde bulunan Y sayfasına git.)
-[//]: # (2. Z butonuna tıkla.)
-[//]: # (3. Sayfayı en alta kaydır.)
-[//]: # (4. Görünmesi gereken metin K iken L görünüyor.)
+- (1. X adresinde bulunan Y sayfasına git.)
+- (2. Z butonuna tıkla.)
+- (3. Sayfayı en alta kaydır.)
+- (4. Görünmesi gereken metin K iken L görünüyor.)
 
 **Olması gereken davranış:**
 
-[//]: # (Kısa ve net bir şekilde hata yerine olması gereken uygulama davranışının ne olması gerektiğini açıklayınız. Örn: X kaydı silindiğinde Z sayfasına yönlendirme yapılmalı.)
+- (Kısa ve net bir şekilde hata yerine olması gereken uygulama davranışının ne olması gerektiğini açıklayınız. Örn: X kaydı silindiğinde Z sayfasına yönlendirme yapılmalı.)
 
 **Ekran görüntüleri:**
 
-[//]: # (Varsa, hatayı görmeyi kolaylaştırılacak ekran görüntüleri.)
+- (Varsa, hatayı görmeyi kolaylaştırılacak ekran görüntüleri.)
 
 **Hatanın alındığı ortam:**
 
-[//]: # (Belirtmediğiniz taktirde Android kullandığınız varsayılacaktır.)
+- (Belirtmediğiniz taktirde Android kullandığınız varsayılacaktır.)
 
-[//]: # (- OS: [Ör.: iOS, Android])
-[//]: # (- Version [Ör.: Android 6.0 Marshmallow])
-
-**Katkı sağlama:**
-
-[//]: # (Bu iş kaydının size atanmasını istiyor musunuz* Yardımına/bilgisine ihtiyaç duyduğunuz diğer ekip üyeleri varsa burada nasıl bir yardıma ihtiyaç duyduğunuzu belirtin.)
-
-* [ ] Evet, bu iş kaydının bana atanmasını istiyorum.
+- (OS: [Ör.: iOS, Android])
+- (Version [Ör.: Android 6.0 Marshmallow])
 
 **Kontrol listesi:**
 
-* [ ] İş kaydınızın başlığı kurallara (sadece ilk harf büyük, emir kipinde problem cümlesi vb.) uygun mu?
-* [ ] Öneriniz ile alakalı açık olarak bekleyen bir [issue](https://github.com/ennara/plan/issues) veya [pull request](https://github.com/ennara/plan/pulls) olmadığına emin misiniz?
+- [ ] İş kaydınızın başlığı kurallara (sadece ilk harf büyük, emir kipinde problem cümlesi vb.) uygun mu?
+- [ ] Öneriniz ile alakalı açık olarak bekleyen bir [issue](https://github.com/ennara/plan/issues) veya [pull request](https://github.com/ennara/plan/pulls) olmadığına emin misiniz?
 
 **Ek içerik:**
 
-[//]: # (Kaynaklar, dış bağlantılar, ekran görüntüleri, örnek çözümler ve benzeri diğer kaynakları ekleyiniz.)
+- (Kaynaklar, dış bağlantılar, ekran görüntüleri, örnek çözümler ve benzeri diğer kaynakları ekleyiniz.)
