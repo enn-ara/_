@@ -1,6 +1,6 @@
 ---
 name: Özellik Önerisi
-about: Bu projeye eklenmesini istediğiniz veya değiştirilmesini istediğiniz bir özellik
+about: Bu projeye eklenmesini istediğiniz veya değiştirilmesini istediğiniz bir özellik.
 title: ''
 labels: enhancement
 assignees: ''
